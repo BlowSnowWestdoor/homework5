@@ -1,2 +1,2 @@
-# homework5
+# homework6 sorting algorithm
 implement sorting algorithm
